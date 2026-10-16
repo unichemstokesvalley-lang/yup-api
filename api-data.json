@@ -1,0 +1,6 @@
+{
+  "Name": "Enter the name of your project to link yup everywhere installer/setup and your download site!",
+  "URL": "Enter the url for the download of your updater:
+  "CurrVersion": "Enter the current version of your app"
+  "UpdaterRun" "Enter when the updater should run for example if you enter 1.0.0 it will update whenever where the one is changes"
+}
